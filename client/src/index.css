@@ -1,0 +1,101 @@
+:root {
+  /* --base-color: rgb(105, 33, 187); */
+  --base-color: #633fbb;
+  --btn-color: #7f56da;
+  --auth-bg: #7f56da;
+  /* --auth-bg: rgb(2, 58, 177);  */
+  /* --auth-bg: rgb(238, 130, 90); */
+  /* --faded-white: rgba(255, 244, 240, 0.938); */
+  --box-shadow: 0px 2px 7px rgb(127 86 218 / 0.07),
+    0px 6px 25px rgb(127 86 218 / 0.04);
+  --faded-white: #f3f4f8;
+  --feedback-color: rgb(226, 40, 8);
+  --input-bg: #fdfdfd;
+  --navbar-bg: #25282a;
+  --success: #3cd188;
+  --secondary: #ff7f5d;
+  --warning: #efae4e;
+  --primary: #687cfe;
+  --info: #0ac7fb;
+  --danger: #f7666e;
+  --success-bg: #3cd1882e;
+  --secondary-bg: #ff7f5d1a;
+  --warning-bg: #efae4e2e;
+  --primary-bg: #687cfe1a;
+  --info-bg: #0ac7fb2e;
+  --danger-bg: #f7666e1a;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.sofia-sans-thin {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.sofia-sans-extralight {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.sofia-sans-light {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.sofia-sans-regular {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sofia-sans-medium {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.sofia-sans-semibold {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.sofia-sans-bold {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.sofia-sans-extrabold {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.sofia-sans-black {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.morphism-glass {
+  background-color: rgba(255, 255, 255, 0.404);
+  backdrop-filter: blur(8px);
+}

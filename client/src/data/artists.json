@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Adele",
+        "description": "English singer-songwriter and record producer known for her soulful vocals and empowering ballads",
+        "genre": "Pop, Soul",
+        "imageUrl": "[Image of Adele singer]"
+    },
+    {
+        "name": "Aaliyah",
+        "description": "American singer, actress, dancer, and model. Often styled as Aaliyah, she was credited for defying traditional R&B conventions, experimenting with hip hop, soul, and pop music",
+        "genre": "R&B, Hip Hop, Pop",
+        "imageUrl": "[Image of Aaliyah singer]"
+    },
+    {
+        "name": "Ariana Grande",
+        "description": "American singer and actress known for her powerful vocals, wide vocal range, and signature high ponytails",
+        "genre": "Pop, R&B",
+        "imageUrl": "[Image of Ariana Grande singer]"
+    },
+    {
+        "name": "Avril Lavigne",
+        "description": "Canadian singer-songwriter, musician, and actress. Known for her pop-punk music, Lavigne has been credited for bringing a punk-influenced sensibility to mainstream pop music in the early 2000s",
+        "genre": "Pop Punk, Pop Rock",
+        "imageUrl": "[Image of Avril Lavigne singer]"
+    },
+    {
+        "name": "Amy Winehouse",
+        "description": "English singer and songwriter known for her deep contralto vocals and her blend of various musical genres, including soul, jazz, and R&B",
+        "genre": "Soul, Jazz, R&B",
+        "imageUrl": "[Image of Amy Winehouse singer]"
+    },
+    {
+        "name": "Aretha Franklin",
+        "description": "American singer, songwriter, pianist, and civil rights activist. Nicknamed the \"Queen of Soul\", Franklin was a pioneer in the fields of American popular music and culture for over six decades",
+        "genre": "Soul, R&B, Gospel",
+        "imageUrl": "[Image of Aretha Franklin singer]"
+    },
+    {
+        "name": "Alicia Keys",
+        "description": "American singer-songwriter, record producer, pianist, and actress. Known for her soulful voice, she has won numerous awards, including 15 Grammy Awards",
+        "genre": "R&B, Soul, Neo-Soul",
+        "imageUrl": "[Image of Alicia Keys singer]"
+    },
+    {
+        "name": "Annie Lennox",
+        "description": "Scottish singer-songwriter, political activist, and occasional record producer. Best known as the lead singer of the Eurythmics, Lennox has achieved success as a solo artist as well",
+        "genre": "Pop Rock, New Wave",
+        "imageUrl": "[Image of Annie Lennox singer]"
+    },
+    {
+        "name": "Ashanti",
+        "description": "American singer, songwriter, record producer, dancer, and actress. She rose to fame in 2002 with her debut album Ashanti",
+        "genre": "R&B, Hip Hop",
+        "imageUrl": "[Image of Ashanti singer]"
+    },
+    {
+        "name": "Alanis Morissette",
+        "description": "Canadian-American singer-songwriter, musician, record producer, and actress. Known for her confessional lyrics and singing style, Morissette has won numerous awards, including seven Grammy Awards",
+        "genre": "Alternative Rock, Rock",
+        "imageUrl": "[Image of Alanis Morissette singer]"
+    },
+    {
+        "name": "Avicii",
+        "description": "Swedish DJ, musician, and record producer known for his electronic dance music, incorporating elements of classical, folk, and other genres",
+        "genre": "Electronic Dance Music (EDM)",
+        "imageUrl": "[Image of Avicii DJ]"
+    },
+    {
+        "name": "Austin Mahone",
+        "description": "American singer-songwriter known for his blend of pop and R&B music",
+        "genre": "Pop, R&B",
+        "imageUrl": "[Image of Austin Mahone singer]"
+    },
+    {
+        "name": "Akon",
+        "description": "Senegalese-American singer, record producer, songwriter, entrepreneur, and actor. Akon is known for his distinctive vocals and use of Auto-Tune in his music, as well as producing hits for other artists like Lady Gaga and Michael Jackson",
+        "genre": "R&B, Hip Hop, Pop",
+        "imageUrl": " "
+    },
+    {
+        "name": "Animal Collective",
+        "description": "American experimental rock band known for their psychedelic sound, complex arrangements, and use of sampling",
+        "genre": "Experimental Rock, Psychedelic Rock",
+        "imageUrl": "[Image of Animal Collective band]"
+    },
+    {
+        "name": "Arcade Fire",
+        "description": "Canadian rock band known for their energetic live performances and eclectic sound, which blends elements of indie rock, post-punk, and baroque pop",
+        "genre": "Indie Rock, Post-Punk, Baroque Pop",
+        "imageUrl": "[Image of Arcade Fire band]"
+    },
+    {
+        "name": "The Avalanches",
+        "description": "Australian electronic music group known for their use of sampling and collage techniques",
+        "genre": "Electronic Music, Sampledelic",
+        "imageUrl": "[Image of The Avalanches band]"
+    },
+    {
+        "name": "Astrud Gilberto",
+        "description": "Brazilian singer known for her bossa nova vocals and collaborations with João Gilberto",
+        "genre": "Bossa Nova",
+        "imageUrl": "[Image of Astrud Gilberto singer]"
+    },
+    {
+        "name": "At the Drive-In",
+        "description": "American post-hardcore band known for their energetic and chaotic sound",
+        "genre": "Post-Hardcore, Progressive Rock",
+        "imageUrl": "[Image of At the Drive-In band]"
+    },
+    {
+        "name": "The Allman Brothers Band",
+        "description": "American Southern rock band known for their blues-influenced sound, improvisation, and dual guitar work",
+        "genre": "Southern Rock, Blues Rock",
+        "imageUrl": "[Image of The Allman Brothers Band]"
+    },
+    {
+        "name": "Antony and the Johnsons",
+        "description": "English-American experimental music project led by Antony Hegarty, known for their unique blend of genres and theatrical performances",
+        "genre": "Experimental Pop, Baroque Pop",
+        "imageUrl": "[Image of Antony and the Johnsons band]"
+    },
+    {
+        "name": "A Tribe Called Quest",
+        "description": "American hip hop group known for their innovative sampling techniques, socially conscious lyrics, and influence on alternative hip hop",
+        "genre": "Hip Hop, Alternative Hip Hop",
+        "imageUrl": "[Image of A Tribe Called Quest band]"
+    },
+    {
+        "name": "The Andrews Sisters",
+        "description": "American singing group consisting of sisters LaVerne, Patti, and Maxine Andrews, known for their close harmonies and popularization of swing music during World War II",
+        "genre": "Swing, Jazz Vocal",
+        "imageUrl": "[Image of The Andrews Sisters band]"
+    },
+    {
+        "name": "Aqua",
+        "description": "Danish-Norwegian eurodance group known for their catchy pop songs and bubblegum pop aesthetic",
+        "genre": "Eurodance, Bubblegum Pop",
+        "imageUrl": "[Image of Aqua band]"
+    },
+    {
+        "name": "Alessia Cara",
+        "description": "Canadian singer-songwriter known for her introspective lyrics and soulful vocals. Her hit song 'Here' won the Grammy Award for Best Song Written for Visual Media in 2016",
+        "genre": "Pop, R&B",
+        "imageUrl": "[Image of Alessia Cara singer]"
+    },
+    {
+        "name": "Al Green",
+        "description": "American singer, songwriter, and musician known for his influential voice and performances in the genres of soul, R&B, and gospel. He is widely regarded as one of the greatest singers of all time",
+        "genre": "Soul, R&B, Gospel",
+        "imageUrl": "[Image of Al Green singer]"
+    },
+    {
+        "name": "Annie Lennox",
+        "description": "Scottish singer-songwriter, political activist, and occasional record producer. Best known as the lead singer of the Eurythmics, Lennox has achieved success as a solo artist as well. She is known for her powerful vocals and her exploration of social and political themes in her music",
+        "genre": "Pop Rock, New Wave",
+        "imageUrl": "[Image of Annie Lennox singer]"
+    },
+    {
+        "name": "Alan Walker",
+        "description": "English-Norwegian DJ and record producer known for his EDM music with a focus on progressive house. He is best known for his hit song 'Faded' featuring singer Iselin Solheim",
+        "genre": "Electronic Dance Music (EDM), Progressive House",
+        "imageUrl": "[Image of Alan Walker DJ]"
+    },
+    {
+        "name": "Aphex Twin",
+        "description": "British electronic music producer known for his innovative and often complex music. He is considered one of the most influential figures in electronic music",
+        "genre": "Electronic Music, Ambient, Acid House",
+        "imageUrl": "[Image of Aphex Twin DJ]"
+    },
+    {
+        "name": "Alison Wonderland",
+        "description": "Australian electronic music producer and DJ known for her blend of genres, including bass music, drum and bass, and future bass",
+        "genre": "Electronic Music, Bass Music, Drum and Bass",
+        "imageUrl": "[Image of Alison Wonderland DJ]"
+    },
+    {
+        "name": "Alan Jackson",
+        "description": "American singer-songwriter and country music artist known for his traditional country sound and storytelling lyrics. He is one of the best-selling country music artists of all time",
+        "genre": "Country Music",
+        "imageUrl": "[Image of Alan Jackson singer]"
+    },
+    {
+        "name": "Anderson .Paak",
+        "genre": "R&B/Soul",
+        "description": "Grammy-winning singer, rapper, songwriter, record producer, and drummer known for his energetic live shows and smooth blend of R&B, soul, hip-hop, and funk.",
+        "talents": "Singer, Rapper, Songwriter, Record Producer, Drummer",
+        "imageUrl": ""
+    },
+    {
+        "name": "Armin van Buuren",
+        "genre": "Trance",
+        "description": "Grammy-nominated DJ, record producer, and remixer considered one of the pioneers of trance music. Known for his high-energy sets and uplifting sound.",
+        "talents": "DJ, Record Producer, Remixer",
+        "imageUrl": ""
+    },
+    {
+        "name": "A$AP Rocky",
+        "genre": "Hip Hop",
+        "description": "Influential rapper, songwriter, record producer, and fashion icon known for his innovative style and influence on contemporary hip hop. ",
+        "talents": "Rapper, Songwriter, Record Producer",
+        "imageUrl": ""
+    },
+    {
+        "name": "Amr Diab",
+        "genre": "Arabic pop",
+        "description": "One of the most commercially successful Arab artists of all time. Known for his smooth vocals, innovative music videos, and influence on modern Arabic music.",
+        "talents": "Singer, Songwriter, Actor",
+        "imageUrl": ""
+    },
+    {
+        "name": "Alice Cooper",
+        "genre": "Hard Rock, Shock Rock (primary), Glam Rock, Heavy Metal",
+        "description": "Pioneering rock singer and songwriter known for his theatrical shock rock performances and influence on heavy metal. With a raspy voice and outrageous shows featuring props, illusions, and dark themes, he's considered the 'Godfather of Shock Rock.' His music spans hard rock, glam rock, and even dabbled in new wave and industrial rock.",
+        "talents": "Singer, Songwriter, Performer"
+    },
+    {
+        "name": "August Alsina",
+        "genre": "R&B, Hip Hop",
+        "description": "Acclaimed singer and songwriter known for his smooth vocals, emotional lyrics, and blend of R&B and hip hop influences. Often exploring themes of love, heartbreak, and vulnerability, he's gained recognition for his raw talent and emotional delivery.",
+        "talents": "Singer, Songwriter"
+    }
+]
